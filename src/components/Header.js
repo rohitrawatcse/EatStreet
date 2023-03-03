@@ -38,7 +38,7 @@ const TitleLeft = () => {
             className="ci-primary"
           ></polygon>{" "}
         </svg>
-        <h2 style={{ marginLeft: "10px" }}> EatStreet</h2>
+        <h2 style={{ marginLeft: "10px" }}> SilverEat</h2>
       </Link>
     </div >
   );
